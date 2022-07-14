@@ -1,0 +1,31 @@
+img{
+  width: 60%;
+  height: fit-content;
+  align-items: center;
+}
+.top-bar{
+  left: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+}
+.close-icon{
+  width: 20px;
+  height: 20px;
+  margin: 20px;
+ 
+}
+.lg-img-hldr{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.title{
+  width: 100%;
+  text-align: center;
+}
+.descriptions{
+  margin: 20px;
+  font-size: 20px;
+}
